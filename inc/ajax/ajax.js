@@ -76,7 +76,7 @@ $('#create_account').on('click', function() {
 				'action':		'new_account',
 				'email_domain':	$('#domain').val(),
 				'email_name': 	$('#create_user').val(),
-				'email_pass': 	$('#create_pass').val(),
+				'email_pass': 	$('#create_pass_f').val(),
 				'email_quota':	$('#create_quota').val()
 			})
 		}).done(function(json) {
