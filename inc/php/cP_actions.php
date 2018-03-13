@@ -31,7 +31,7 @@ if($json->action == 'get_domains') {
 
 	if( $total_addons > 0 ) {
 		while($add_count < $total_addons) {
-			$domain[$total_domain] = $response->data->parked_domains[$add_count];
+			$domain[$total_domain] = $response->data->addon_domains[$add_count];
 			$total_domain++; 
 			$add_count++;
 		}
