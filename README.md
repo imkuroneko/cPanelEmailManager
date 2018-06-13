@@ -31,3 +31,9 @@ Agregar los datos de tu servidor en el archivo `cP_config.php`
 ### :octocat: Problemas?
 
 Aún sigo realizando pruebas varias para poder agregar cosas útiles, pero si en algún momento encuentran algún problemita que se me haya pasado por alto, no duden en avisarme en la sección `Issues`
+
+<!--
+GIT-CARD
+cover: asd
+color: #03A9F4
+-->
